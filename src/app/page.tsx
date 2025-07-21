@@ -61,7 +61,7 @@ export default function Home() {
       >
         <div className="absolute inset-0 bg-black opacity-40"></div>
         <h2 className="text-5xl md:text-7xl font-bold text-white z-10 leading-tight">
-          Hello, I'm Gde Dimas
+          Hello, Im Gde Dimas
         </h2>
       </section>
 
